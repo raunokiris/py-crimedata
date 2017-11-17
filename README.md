@@ -6,7 +6,7 @@ A simple heatmap for offences against property and public crimes in Estonia 2016
 | *vara_1*   | https://opendata.smit.ee/ppa/csv/vara_1.csv    |
 | *avalik_1* | https://opendata.smit.ee/ppa/csv/avalik_1.csv  |
  
-A Python script to convert L-Est cooridnates to WGS84 coordinates is also included (`lest_converter.py`).
+A Python script to convert L-Est coordinates to WGS84 coordinates is also included (`lest_converter.py`).
 
 ## Example screenshots
 ### Estonia
@@ -18,6 +18,6 @@ A Python script to convert L-Est cooridnates to WGS84 coordinates is also includ
 ### Tartu
 ![tartu](example_screenshots/map_tartu.png)
 ### Pärnu
-![estonia](example_screenshots/map_parnu.png)
+![parnu](example_screenshots/map_parnu.png)
 ### Õismäe and Mustamäe
-![estonia](example_screenshots/map_oismae.png)
+![oismae](example_screenshots/map_oismae.png)
