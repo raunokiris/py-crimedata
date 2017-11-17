@@ -21,3 +21,17 @@ A Python script to convert L-Est coordinates to WGS84 coordinates is also includ
 ![parnu](example_screenshots/map_parnu.png)
 ### Õismäe and Mustamäe
 ![oismae](example_screenshots/map_oismae.png)
+
+
+## Enabling map view on Jupyter Notebook
+To enable plot view on Jupyter Notebook:
+```sh
+$ jupyter nbextension enable --py --sys-prefix widgetsnbextension
+$ jupyter nbextension enable --py --sys-prefix gmaps
+```
+
+Or, depending on the version
+```sh
+$ jupyter-nbextension enable --py --sys-prefix widgetsnbextension
+$ jupyter-nbextension enable --py --sys-prefix gmaps
+```
